@@ -1,1 +1,1 @@
-aici se afla aplicatia mea 
+aici se afla aplicatia mea git status
